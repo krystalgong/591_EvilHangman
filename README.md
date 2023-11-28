@@ -8,7 +8,7 @@ This project was completed individually without collaboration.
 
 ## GitHub Repository
 
-You can find the project repository at ``.
+You can find the project repository at `https://github.com/krystalgong/591_EvilHangman`.
 
 ## Design Analysis
 
